@@ -1,0 +1,7 @@
+,AURC,AURC,ErrorDetection_AUROC,ErrorDetection_AUROC
+,mean,std,mean,std
+score,,,,
+BALD (mutual information),0.327,0.0939,0.5694,0.0862
+MC variance (epistemik),0.2876,0.0794,0.6219,0.072
+MSP (1 forward pass),0.2622,0.0601,0.6601,0.0487
+Predictive entropy,0.2622,0.0601,0.6601,0.0487

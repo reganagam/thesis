@@ -1,0 +1,6 @@
+,BalancedAcc,BalancedAcc,MacroF1,MacroF1,Kappa,Kappa
+,mean,std,mean,std,mean,std
+source,,,,,,
+ISIC,0.895,0.0762,0.7486,0.162,0.7856,0.1205
+Polesie,0.6136,0.1234,0.5675,0.1592,0.3889,0.1944
+VRUH,0.5672,0.0658,0.5567,0.065,0.3463,0.0964
