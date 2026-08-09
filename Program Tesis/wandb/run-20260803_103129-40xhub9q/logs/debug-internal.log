@@ -1,0 +1,22 @@
+{"time":"2026-08-03T10:31:29.4150368+07:00","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-08-03T10:31:29.8729057+07:00","level":"INFO","msg":"stream: created new stream","id":"40xhub9q"}
+{"time":"2026-08-03T10:31:29.8729057+07:00","level":"INFO","msg":"handler: started","stream_id":"40xhub9q"}
+{"time":"2026-08-03T10:31:29.875488+07:00","level":"INFO","msg":"stream: started","id":"40xhub9q"}
+{"time":"2026-08-03T10:31:29.875488+07:00","level":"INFO","msg":"sender: started","stream_id":"40xhub9q"}
+{"time":"2026-08-03T10:31:29.875488+07:00","level":"INFO","msg":"writer: started","stream_id":"40xhub9q"}
+{"time":"2026-08-03T10:31:45.3301129+07:00","level":"ERROR","msg":"monitor: error sampling metrics: Access is denied."}
+{"time":"2026-08-03T10:32:00.3176915+07:00","level":"ERROR","msg":"monitor: error sampling metrics: Access is denied."}
+{"time":"2026-08-03T10:32:15.326971+07:00","level":"ERROR","msg":"monitor: error sampling metrics: Access is denied."}
+{"time":"2026-08-03T10:32:30.3210186+07:00","level":"ERROR","msg":"monitor: error sampling metrics: Access is denied."}
+{"time":"2026-08-03T10:32:45.3276092+07:00","level":"ERROR","msg":"monitor: error sampling metrics: Access is denied."}
+{"time":"2026-08-03T10:33:00.3382771+07:00","level":"ERROR","msg":"monitor: error sampling metrics: Access is denied."}
+{"time":"2026-08-03T10:33:15.3371047+07:00","level":"ERROR","msg":"monitor: error sampling metrics: Access is denied."}
+{"time":"2026-08-03T10:33:30.3163223+07:00","level":"ERROR","msg":"monitor: error sampling metrics: Access is denied."}
+{"time":"2026-08-03T10:33:45.3445825+07:00","level":"ERROR","msg":"monitor: error sampling metrics: Access is denied."}
+{"time":"2026-08-03T10:33:48.1754654+07:00","level":"INFO","msg":"api: retrying HTTP error","status":500,"url":"https://api.wandb.ai/files/reganagam-universitas-gadjah-mada-library/breslow-hierarchical-gatekeeper/40xhub9q/file_stream","body":"{\"error\":\"context deadline exceeded\"}"}
+{"time":"2026-08-03T10:33:49.4225536+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-08-03T10:33:50.9447171+07:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-08-03T10:33:50.9648015+07:00","level":"INFO","msg":"stream: closing","id":"40xhub9q"}
+{"time":"2026-08-03T10:33:50.9648015+07:00","level":"INFO","msg":"handler: closed","stream_id":"40xhub9q"}
+{"time":"2026-08-03T10:33:50.9659774+07:00","level":"INFO","msg":"sender: closed","stream_id":"40xhub9q"}
+{"time":"2026-08-03T10:33:50.9659774+07:00","level":"INFO","msg":"stream: closed","id":"40xhub9q"}

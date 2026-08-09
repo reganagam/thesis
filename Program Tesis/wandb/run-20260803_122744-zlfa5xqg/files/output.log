@@ -1,0 +1,17 @@
+======================================================================
+MEMBUAT FIGUR — test_oof_densenet121_proc_subsample
+======================================================================
+    [fig] D:\REGAN-Projek\THESIS\Result\figures\fig_cm_A_flat_test_oof_densenet121_proc_subsample.png
+    [fig] D:\REGAN-Projek\THESIS\Result\figures\fig_roc_A_flat_test_oof_densenet121_proc_subsample.png
+    [fig] D:\REGAN-Projek\THESIS\Result\figures\fig_roc_stage1_test_oof_densenet121_proc_subsample.png
+    [fig] D:\REGAN-Projek\THESIS\Result\figures\fig_calibration_stage1_test_oof_densenet121_proc_subsample.png
+    [fig] D:\REGAN-Projek\THESIS\Result\figures\fig_roc_stage2_test_oof_densenet121_proc_subsample.png
+    [fig] D:\REGAN-Projek\THESIS\Result\figures\fig_cm_B_hier_test_oof_densenet121_proc_subsample.png
+    [fig] D:\REGAN-Projek\THESIS\Result\figures\fig_roc_B_hier_test_oof_densenet121_proc_subsample.png
+    [fig] D:\REGAN-Projek\THESIS\Result\figures\fig_cm_C_gate_test_oof_densenet121_proc_subsample.png
+    [fig] D:\REGAN-Projek\THESIS\Result\figures\fig_uncertainty_hist_test_oof_densenet121_proc_subsample.png
+    [fig] D:\REGAN-Projek\THESIS\Result\figures\fig_accuracy_vs_rejection_test_oof_densenet121_proc_subsample.png
+    [fig] D:\REGAN-Projek\THESIS\Result\figures\fig_risk_coverage_test_oof_densenet121_proc_subsample.png
+    [fig] D:\REGAN-Projek\THESIS\Result\figures\fig_bar_BalancedAcc_test_oof_densenet121_proc_subsample.png
+    [fig] D:\REGAN-Projek\THESIS\Result\figures\fig_bar_MacroF1_test_oof_densenet121_proc_subsample.png
+    [fig] D:\REGAN-Projek\THESIS\Result\figures\fig_bar_Kappa_test_oof_densenet121_proc_subsample.png

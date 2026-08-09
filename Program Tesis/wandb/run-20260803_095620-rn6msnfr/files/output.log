@@ -1,0 +1,21 @@
+Downloading: "https://download.pytorch.org/models/densenet121-a639ec97.pth" to C:\Users\Regan Agam/.cache\torch\hub\checkpoints\densenet121-a639ec97.pth
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 30.8M/30.8M [00:00<00:00, 92.0MB/s]
+  parameter terlatih: 7,085,185
+    ep 01/25  train 0.2364  val 0.2660  AUC 0.7634  bACC 0.6999
+    ep 02/25  train 0.1896  val 0.2304  AUC 0.8245  bACC 0.7179
+    ep 03/25  train 0.1672  val 0.2478  AUC 0.8708  bACC 0.7269
+    ep 04/25  train 0.1376  val 0.2599  AUC 0.7659  bACC 0.6940
+    ep 05/25  train 0.1180  val 0.3004  AUC 0.7658  bACC 0.6878
+    ep 06/25  train 0.1139  val 0.2208  AUC 0.8361  bACC 0.7245
+    ep 07/25  train 0.0895  val 0.2873  AUC 0.7816  bACC 0.6680
+    ep 08/25  train 0.0823  val 0.3917  AUC 0.8156  bACC 0.6617
+    ep 09/25  train 0.0784  val 0.2704  AUC 0.7920  bACC 0.6878
+    ep 10/25  train 0.0662  val 0.3142  AUC 0.8056  bACC 0.6830
+    ep 11/25  train 0.0614  val 0.5943  AUC 0.6844  bACC 0.5514
+    ep 12/25  train 0.0498  val 0.4216  AUC 0.7807  bACC 0.6463
+    early stop @ epoch 12 (best 6)
+    selesai 0.9 menit | VRAM puncak 2233 MB
+    [fig] D:\REGAN-Projek\THESIS\Result\figures\stage1_densenet121_proc_subsample_f0_s42_history.png
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage1_densenet121_proc_subsample_innerval_f0_s42.csv  (149 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage1_densenet121_proc_subsample_test_f0_s42.csv  (227 baris)
+    TEST  AUC=0.7656  bACC=0.6961  Sens=0.5973  Spec=0.7949

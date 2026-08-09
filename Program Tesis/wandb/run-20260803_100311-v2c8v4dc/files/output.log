@@ -1,0 +1,14 @@
+  parameter terlatih: 7,085,185
+    ep 01/25  train 0.3226  val 0.2706  AUC 0.7690  bACC 0.6701
+    ep 02/25  train 0.2654  val 0.2954  AUC 0.7050  bACC 0.5892
+    ep 03/25  train 0.2187  val 0.3252  AUC 0.7111  bACC 0.6133
+    ep 04/25  train 0.1880  val 0.3290  AUC 0.7074  bACC 0.6217
+    ep 05/25  train 0.1562  val 0.3737  AUC 0.7414  bACC 0.6254
+    ep 06/25  train 0.1402  val 0.3099  AUC 0.7755  bACC 0.7106
+    ep 07/25  train 0.1308  val 0.3153  AUC 0.7841  bACC 0.6782
+    early stop @ epoch 7 (best 1)
+    selesai 0.4 menit | VRAM puncak 2234 MB
+    [fig] D:\REGAN-Projek\THESIS\Result\figures\stage1_densenet121_proc_subsample_f2_s43_history.png
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage1_densenet121_proc_subsample_innerval_f2_s43.csv  (156 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage1_densenet121_proc_subsample_test_f2_s43.csv  (264 baris)
+    TEST  AUC=0.7674  bACC=0.6562  Sens=0.8125  Spec=0.5000

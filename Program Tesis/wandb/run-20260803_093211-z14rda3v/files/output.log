@@ -1,0 +1,10 @@
+
+== Membangun cache 'raw' ==
+  cache 'raw': 0 sudah ada, 1453 akan dibuat
+  raw: 100%|██████████████████████████████████████████████████████████████████████| 1453/1453 [00:05<00:00, 282.78it/s]
+  cache 'raw': 1453/1453 berhasil
+
+== Membangun cache 'proc' ==
+  cache 'proc': 0 sudah ada, 1453 akan dibuat
+  proc: 100%|██████████████████████████████████████████████████████████████████████| 1453/1453 [01:22<00:00, 17.57it/s]
+  cache 'proc': 1453/1453 berhasil

@@ -1,0 +1,56 @@
+
+--- TABEL ABLASI UTAMA (mean ± sd) ---
+     scenario  BalancedAcc_mean  BalancedAcc_sd  MacroF1_mean  AUC_ovr_mean  Kappa_mean  coverage_mean  FatalMiss_c2_to_c0_mean
+       A_flat            0.6046          0.0380        0.5944        0.8002      0.4106         1.0000                   0.0655
+A_flat_reject            0.6069          0.0432        0.5965        0.8057      0.4228         0.8871                   0.0550
+       B_hier            0.6204          0.0531        0.6068        0.7922      0.4239         1.0000                   0.1057
+  C_hier_gate            0.6359          0.0583        0.6208        0.7999      0.4457         0.8912                   0.0901
+[SAVED] D:\REGAN-Projek\THESIS\Result\results\tabel_ablasi_test_oof_densenet121_proc_subsample.csv
+
+--- KALIBRASI AMBANG BERSARANG ---
+  target rejeksi   : 10.0%
+  ambang absolut   : 0.002818 ± 0.000607
+  COVERAGE AKTUAL  : 0.8912 ± 0.0373   <-- laporkan angka ini
+[SAVED] D:\REGAN-Projek\THESIS\Result\results\gatekeeper_threshold_test_oof_densenet121_proc_subsample.csv
+
+--- PERBANDINGAN SKOR KETIDAKPASTIAN ---
+  (AURC makin KECIL makin baik; ErrorDetection AUROC makin BESAR makin baik)
+                             AURC         ErrorDetection_AUROC
+                             mean     std                 mean     std
+score
+BALD (mutual information)  0.3270  0.0939               0.5694  0.0862
+MC variance (epistemik)    0.2876  0.0794               0.6219  0.0720
+MSP (1 forward pass)       0.2622  0.0601               0.6601  0.0487
+Predictive entropy         0.2622  0.0601               0.6601  0.0487
+[SAVED] D:\REGAN-Projek\THESIS\Result\results\tabel_uncertainty_scores_test_oof_densenet121_proc_subsample.csv
+
+[SAVED] kurva sweep & risk-coverage -> D:\REGAN-Projek\THESIS\Result\results
+
+--- BREAKDOWN PER SUMBER DATASET ---
+        BalancedAcc         MacroF1           Kappa
+               mean     std    mean     std    mean     std
+source
+ISIC         0.8950  0.0762  0.7486  0.1620  0.7856  0.1205
+Polesie      0.6136  0.1234  0.5675  0.1592  0.3889  0.1944
+VRUH         0.5672  0.0658  0.5567  0.0650  0.3463  0.0964
+[SAVED] D:\REGAN-Projek\THESIS\Result\results\tabel_per_sumber_test_oof_densenet121_proc_subsample.csv
+
+--- WILCOXON SIGNED-RANK (BalancedAcc) ---
+     metric             A             B  n_pairs  median_A  median_B  stat  p_value  significant_0.05
+BalancedAcc        A_flat A_flat_reject       21    0.5923    0.6059  98.0   0.5621             False
+BalancedAcc        A_flat        B_hier       21    0.5923    0.6066  79.0   0.2157             False
+BalancedAcc        A_flat   C_hier_gate       21    0.5923    0.6278  52.0   0.0263              True
+BalancedAcc A_flat_reject        B_hier       21    0.6059    0.6066  92.0   0.4319             False
+BalancedAcc A_flat_reject   C_hier_gate       21    0.6059    0.6278  59.0   0.0502             False
+BalancedAcc        B_hier   C_hier_gate       21    0.6066    0.6278  16.0   0.0002              True
+[SAVED] D:\REGAN-Projek\THESIS\Result\results\wilcoxon_BalancedAcc_test_oof_densenet121_proc_subsample.csv
+
+--- WILCOXON SIGNED-RANK (MacroF1) ---
+ metric             A             B  n_pairs  median_A  median_B  stat  p_value  significant_0.05
+MacroF1        A_flat A_flat_reject       21    0.5874    0.5957 102.0   0.6578             False
+MacroF1        A_flat        B_hier       21    0.5874    0.5984  93.0   0.4524             False
+MacroF1        A_flat   C_hier_gate       21    0.5874    0.6089  57.0   0.0421              True
+MacroF1 A_flat_reject        B_hier       21    0.5957    0.5984  99.0   0.5854             False
+MacroF1 A_flat_reject   C_hier_gate       21    0.5957    0.6089  66.0   0.0888             False
+MacroF1        B_hier   C_hier_gate       21    0.5984    0.6089  17.0   0.0002              True
+[SAVED] D:\REGAN-Projek\THESIS\Result\results\wilcoxon_MacroF1_test_oof_densenet121_proc_subsample.csv

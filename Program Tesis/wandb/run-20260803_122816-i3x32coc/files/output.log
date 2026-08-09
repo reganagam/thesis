@@ -1,0 +1,7 @@
+C:\Users\Regan Agam\miniconda3\envs\torch-gpu\lib\site-packages\torch\autograd\graph.py:825: UserWarning: Attempting to run cuBLAS, but there was no current CUDA context! Attempting to set the primary context... (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\cuda\CublasHandlePool.cpp:135.)
+  return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+    [fig] D:\REGAN-Projek\THESIS\Result\figures\fig_gradcam_stage1_confident_correct_f0.png
+    [fig] D:\REGAN-Projek\THESIS\Result\figures\fig_gradcam_stage1_errors_f0.png
+    [fig] D:\REGAN-Projek\THESIS\Result\figures\fig_gradcam_stage1_rejected_f0.png
+    [fig] D:\REGAN-Projek\THESIS\Result\figures\fig_gradcam_stage2_oof_correct_f0.png
+    [fig] D:\REGAN-Projek\THESIS\Result\figures\fig_gradcam_stage2_gt_correct_f0.png

@@ -1,0 +1,20 @@
+{"time":"2026-08-03T10:24:58.2443382+07:00","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-08-03T10:24:58.6860718+07:00","level":"INFO","msg":"stream: created new stream","id":"6q4ipa4t"}
+{"time":"2026-08-03T10:24:58.6868719+07:00","level":"INFO","msg":"handler: started","stream_id":"6q4ipa4t"}
+{"time":"2026-08-03T10:24:58.6926887+07:00","level":"INFO","msg":"stream: started","id":"6q4ipa4t"}
+{"time":"2026-08-03T10:24:58.6932947+07:00","level":"INFO","msg":"writer: started","stream_id":"6q4ipa4t"}
+{"time":"2026-08-03T10:24:58.6939988+07:00","level":"INFO","msg":"sender: started","stream_id":"6q4ipa4t"}
+{"time":"2026-08-03T10:25:14.279197+07:00","level":"ERROR","msg":"monitor: error sampling metrics: Access is denied."}
+{"time":"2026-08-03T10:25:29.29291+07:00","level":"ERROR","msg":"monitor: error sampling metrics: Access is denied."}
+{"time":"2026-08-03T10:25:44.262734+07:00","level":"ERROR","msg":"monitor: error sampling metrics: Access is denied."}
+{"time":"2026-08-03T10:25:59.2659832+07:00","level":"ERROR","msg":"monitor: error sampling metrics: Access is denied."}
+{"time":"2026-08-03T10:26:14.3013876+07:00","level":"ERROR","msg":"monitor: error sampling metrics: Access is denied."}
+{"time":"2026-08-03T10:26:29.2618876+07:00","level":"ERROR","msg":"monitor: error sampling metrics: Access is denied."}
+{"time":"2026-08-03T10:26:44.3054141+07:00","level":"ERROR","msg":"monitor: error sampling metrics: Access is denied."}
+{"time":"2026-08-03T10:26:59.2543717+07:00","level":"ERROR","msg":"monitor: error sampling metrics: Access is denied."}
+{"time":"2026-08-03T10:27:05.2222356+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-08-03T10:27:05.8095416+07:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-08-03T10:27:05.828858+07:00","level":"INFO","msg":"stream: closing","id":"6q4ipa4t"}
+{"time":"2026-08-03T10:27:05.828858+07:00","level":"INFO","msg":"handler: closed","stream_id":"6q4ipa4t"}
+{"time":"2026-08-03T10:27:05.8305437+07:00","level":"INFO","msg":"sender: closed","stream_id":"6q4ipa4t"}
+{"time":"2026-08-03T10:27:05.8305437+07:00","level":"INFO","msg":"stream: closed","id":"6q4ipa4t"}

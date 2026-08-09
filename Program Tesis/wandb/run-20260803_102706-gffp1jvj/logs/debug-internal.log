@@ -1,0 +1,20 @@
+{"time":"2026-08-03T10:27:06.4684036+07:00","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-08-03T10:27:06.9424984+07:00","level":"INFO","msg":"stream: created new stream","id":"gffp1jvj"}
+{"time":"2026-08-03T10:27:06.9431586+07:00","level":"INFO","msg":"handler: started","stream_id":"gffp1jvj"}
+{"time":"2026-08-03T10:27:06.9706286+07:00","level":"INFO","msg":"stream: started","id":"gffp1jvj"}
+{"time":"2026-08-03T10:27:06.9712581+07:00","level":"INFO","msg":"writer: started","stream_id":"gffp1jvj"}
+{"time":"2026-08-03T10:27:06.9712581+07:00","level":"INFO","msg":"sender: started","stream_id":"gffp1jvj"}
+{"time":"2026-08-03T10:27:22.4842575+07:00","level":"ERROR","msg":"monitor: error sampling metrics: Access is denied."}
+{"time":"2026-08-03T10:27:37.5009739+07:00","level":"ERROR","msg":"monitor: error sampling metrics: Access is denied."}
+{"time":"2026-08-03T10:27:52.4617355+07:00","level":"ERROR","msg":"monitor: error sampling metrics: Access is denied."}
+{"time":"2026-08-03T10:28:07.4968559+07:00","level":"ERROR","msg":"monitor: error sampling metrics: Access is denied."}
+{"time":"2026-08-03T10:28:22.4860021+07:00","level":"ERROR","msg":"monitor: error sampling metrics: Access is denied."}
+{"time":"2026-08-03T10:28:37.4654409+07:00","level":"ERROR","msg":"monitor: error sampling metrics: Access is denied."}
+{"time":"2026-08-03T10:28:52.4884868+07:00","level":"ERROR","msg":"monitor: error sampling metrics: Access is denied."}
+{"time":"2026-08-03T10:29:07.4649033+07:00","level":"ERROR","msg":"monitor: error sampling metrics: Access is denied."}
+{"time":"2026-08-03T10:29:09.2785253+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-08-03T10:29:09.5878338+07:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-08-03T10:29:09.6061484+07:00","level":"INFO","msg":"stream: closing","id":"gffp1jvj"}
+{"time":"2026-08-03T10:29:09.6061484+07:00","level":"INFO","msg":"handler: closed","stream_id":"gffp1jvj"}
+{"time":"2026-08-03T10:29:09.6061484+07:00","level":"INFO","msg":"sender: closed","stream_id":"gffp1jvj"}
+{"time":"2026-08-03T10:29:09.6061484+07:00","level":"INFO","msg":"stream: closed","id":"gffp1jvj"}

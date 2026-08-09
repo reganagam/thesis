@@ -1,0 +1,16 @@
+  parameter terlatih: 7,085,185
+    ep 01/25  train 0.3170  val 0.2719  AUC 0.7999  bACC 0.7274
+    ep 02/25  train 0.2768  val 0.2350  AUC 0.8666  bACC 0.7212
+    ep 03/25  train 0.2335  val 0.2231  AUC 0.8728  bACC 0.8042
+    ep 04/25  train 0.2048  val 0.2145  AUC 0.8725  bACC 0.7879
+    ep 05/25  train 0.1778  val 0.2345  AUC 0.8813  bACC 0.7236
+    ep 06/25  train 0.1638  val 0.2450  AUC 0.8653  bACC 0.7621
+    ep 07/25  train 0.1474  val 0.2011  AUC 0.8939  bACC 0.8132
+    ep 08/25  train 0.1120  val 0.2536  AUC 0.8833  bACC 0.7248
+    ep 09/25  train 0.1103  val 0.2201  AUC 0.9095  bACC 0.7591
+    ep 10/25  train 0.0962  val 0.3383  AUC 0.8520  bACC 0.7236
+    ep 11/25  train 0.0987  val 0.2969  AUC 0.8655  bACC 0.7591
+    ep 12/25  train 0.0972  val 0.2602  AUC 0.8690  bACC 0.7819
+    ep 13/25  train 0.0883  val 0.3289  AUC 0.8498  bACC 0.6996
+    early stop @ epoch 13 (best 7)
+    selesai 0.8 menit | VRAM puncak 2234 MB

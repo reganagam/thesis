@@ -1,0 +1,15 @@
+    ep 01/25  train 0.6486  val 0.5329  AUC 0.8522  bACC 0.7119
+    ep 02/25  train 0.5224  val 0.3983  AUC 0.8598  bACC 0.7533
+    ep 03/25  train 0.4680  val 0.3789  AUC 0.8638  bACC 0.7320
+    ep 04/25  train 0.3717  val 0.3980  AUC 0.8691  bACC 0.7397
+    ep 05/25  train 0.3306  val 0.4290  AUC 0.8228  bACC 0.7347
+    ep 06/25  train 0.2637  val 0.5182  AUC 0.8126  bACC 0.7135
+    ep 07/25  train 0.2674  val 0.4600  AUC 0.8515  bACC 0.7712
+    ep 08/25  train 0.2765  val 0.5738  AUC 0.7765  bACC 0.7048
+    ep 09/25  train 0.2275  val 0.4327  AUC 0.8773  bACC 0.7783
+    early stop @ epoch 9 (best 3)
+    selesai 0.4 menit | VRAM puncak 2235 MB
+    [fig] D:\REGAN-Projek\THESIS\Result\figures\stage2_gt_densenet121_proc_subsample_f0_s42_history.png
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_gt_innerval_f0_s42.csv  (105 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_gt_test_f0_s42.csv  (227 baris)
+    TEST(Miv sejati) AUC=0.8754  bACC=0.7645
