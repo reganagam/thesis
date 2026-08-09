@@ -1,0 +1,150 @@
+
+### seed 42 | fold 0 ###
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage1_densenet121_proc_subsample_external_f0_s42.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_oof_external_f0_s42.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_gt_external_f0_s42.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\flat_densenet121_proc_subsample_external_f0_s42.csv  (247 baris)
+
+### seed 42 | fold 1 ###
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage1_densenet121_proc_subsample_external_f1_s42.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_oof_external_f1_s42.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_gt_external_f1_s42.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\flat_densenet121_proc_subsample_external_f1_s42.csv  (247 baris)
+
+### seed 42 | fold 2 ###
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage1_densenet121_proc_subsample_external_f2_s42.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_oof_external_f2_s42.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_gt_external_f2_s42.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\flat_densenet121_proc_subsample_external_f2_s42.csv  (247 baris)
+
+### seed 42 | fold 3 ###
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage1_densenet121_proc_subsample_external_f3_s42.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_oof_external_f3_s42.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_gt_external_f3_s42.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\flat_densenet121_proc_subsample_external_f3_s42.csv  (247 baris)
+
+### seed 42 | fold 4 ###
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage1_densenet121_proc_subsample_external_f4_s42.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_oof_external_f4_s42.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_gt_external_f4_s42.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\flat_densenet121_proc_subsample_external_f4_s42.csv  (247 baris)
+
+### seed 43 | fold 0 ###
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage1_densenet121_proc_subsample_external_f0_s43.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_oof_external_f0_s43.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_gt_external_f0_s43.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\flat_densenet121_proc_subsample_external_f0_s43.csv  (247 baris)
+
+### seed 43 | fold 1 ###
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage1_densenet121_proc_subsample_external_f1_s43.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_oof_external_f1_s43.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_gt_external_f1_s43.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\flat_densenet121_proc_subsample_external_f1_s43.csv  (247 baris)
+
+### seed 43 | fold 2 ###
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage1_densenet121_proc_subsample_external_f2_s43.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_oof_external_f2_s43.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_gt_external_f2_s43.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\flat_densenet121_proc_subsample_external_f2_s43.csv  (247 baris)
+
+### seed 43 | fold 3 ###
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage1_densenet121_proc_subsample_external_f3_s43.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_oof_external_f3_s43.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_gt_external_f3_s43.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\flat_densenet121_proc_subsample_external_f3_s43.csv  (247 baris)
+
+### seed 43 | fold 4 ###
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage1_densenet121_proc_subsample_external_f4_s43.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_oof_external_f4_s43.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_gt_external_f4_s43.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\flat_densenet121_proc_subsample_external_f4_s43.csv  (247 baris)
+
+### seed 44 | fold 0 ###
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage1_densenet121_proc_subsample_external_f0_s44.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_oof_external_f0_s44.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_gt_external_f0_s44.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\flat_densenet121_proc_subsample_external_f0_s44.csv  (247 baris)
+
+### seed 44 | fold 1 ###
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage1_densenet121_proc_subsample_external_f1_s44.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_oof_external_f1_s44.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_gt_external_f1_s44.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\flat_densenet121_proc_subsample_external_f1_s44.csv  (247 baris)
+
+### seed 44 | fold 2 ###
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage1_densenet121_proc_subsample_external_f2_s44.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_oof_external_f2_s44.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_gt_external_f2_s44.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\flat_densenet121_proc_subsample_external_f2_s44.csv  (247 baris)
+
+### seed 44 | fold 3 ###
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage1_densenet121_proc_subsample_external_f3_s44.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_oof_external_f3_s44.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_gt_external_f3_s44.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\flat_densenet121_proc_subsample_external_f3_s44.csv  (247 baris)
+
+### seed 44 | fold 4 ###
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage1_densenet121_proc_subsample_external_f4_s44.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_oof_external_f4_s44.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_gt_external_f4_s44.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\flat_densenet121_proc_subsample_external_f4_s44.csv  (247 baris)
+
+### seed 45 | fold 0 ###
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage1_densenet121_proc_subsample_external_f0_s45.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_oof_external_f0_s45.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_gt_external_f0_s45.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\flat_densenet121_proc_subsample_external_f0_s45.csv  (247 baris)
+
+### seed 45 | fold 1 ###
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage1_densenet121_proc_subsample_external_f1_s45.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_oof_external_f1_s45.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_gt_external_f1_s45.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\flat_densenet121_proc_subsample_external_f1_s45.csv  (247 baris)
+
+### seed 45 | fold 2 ###
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage1_densenet121_proc_subsample_external_f2_s45.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_oof_external_f2_s45.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_gt_external_f2_s45.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\flat_densenet121_proc_subsample_external_f2_s45.csv  (247 baris)
+
+### seed 45 | fold 3 ###
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage1_densenet121_proc_subsample_external_f3_s45.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_oof_external_f3_s45.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_gt_external_f3_s45.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\flat_densenet121_proc_subsample_external_f3_s45.csv  (247 baris)
+
+### seed 45 | fold 4 ###
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage1_densenet121_proc_subsample_external_f4_s45.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_oof_external_f4_s45.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_gt_external_f4_s45.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\flat_densenet121_proc_subsample_external_f4_s45.csv  (247 baris)
+
+### seed 46 | fold 0 ###
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage1_densenet121_proc_subsample_external_f0_s46.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_oof_external_f0_s46.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_gt_external_f0_s46.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\flat_densenet121_proc_subsample_external_f0_s46.csv  (247 baris)
+
+### seed 46 | fold 1 ###
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage1_densenet121_proc_subsample_external_f1_s46.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_oof_external_f1_s46.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_gt_external_f1_s46.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\flat_densenet121_proc_subsample_external_f1_s46.csv  (247 baris)
+
+### seed 46 | fold 2 ###
+  [!] Stage 1 tidak ada
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_oof_external_f2_s46.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_gt_external_f2_s46.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\flat_densenet121_proc_subsample_external_f2_s46.csv  (247 baris)
+
+### seed 46 | fold 3 ###
+  [!] Stage 1 tidak ada
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_oof_external_f3_s46.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_gt_external_f3_s46.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\flat_densenet121_proc_subsample_external_f3_s46.csv  (247 baris)
+
+### seed 46 | fold 4 ###
+  [!] Stage 1 tidak ada
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_oof_external_f4_s46.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\stage2_densenet121_proc_subsample_gt_external_f4_s46.csv  (247 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\flat_densenet121_proc_subsample_external_f4_s46.csv  (247 baris)

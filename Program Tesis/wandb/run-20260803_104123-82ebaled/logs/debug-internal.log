@@ -1,0 +1,14 @@
+{"time":"2026-08-03T10:41:23.018764+07:00","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-08-03T10:41:23.4475369+07:00","level":"INFO","msg":"stream: created new stream","id":"82ebaled"}
+{"time":"2026-08-03T10:41:23.4475369+07:00","level":"INFO","msg":"handler: started","stream_id":"82ebaled"}
+{"time":"2026-08-03T10:41:23.4485526+07:00","level":"INFO","msg":"stream: started","id":"82ebaled"}
+{"time":"2026-08-03T10:41:23.4485526+07:00","level":"INFO","msg":"writer: started","stream_id":"82ebaled"}
+{"time":"2026-08-03T10:41:23.4485526+07:00","level":"INFO","msg":"sender: started","stream_id":"82ebaled"}
+{"time":"2026-08-03T10:41:39.4619126+07:00","level":"ERROR","msg":"monitor: error sampling metrics: Access is denied."}
+{"time":"2026-08-03T10:41:54.4614216+07:00","level":"ERROR","msg":"monitor: error sampling metrics: Access is denied."}
+{"time":"2026-08-03T10:42:09.1073612+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-08-03T10:42:09.5970059+07:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-08-03T10:42:09.6097675+07:00","level":"INFO","msg":"stream: closing","id":"82ebaled"}
+{"time":"2026-08-03T10:42:09.6097675+07:00","level":"INFO","msg":"handler: closed","stream_id":"82ebaled"}
+{"time":"2026-08-03T10:42:09.6119824+07:00","level":"INFO","msg":"sender: closed","stream_id":"82ebaled"}
+{"time":"2026-08-03T10:42:09.6124894+07:00","level":"INFO","msg":"stream: closed","id":"82ebaled"}

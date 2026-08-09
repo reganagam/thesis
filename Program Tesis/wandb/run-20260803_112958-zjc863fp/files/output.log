@@ -1,0 +1,16 @@
+    ep 01/25  train 1.0212  val 0.9348  AUC 0.7380  bACC 0.5477
+    ep 02/25  train 0.8847  val 0.8485  AUC 0.7810  bACC 0.5703
+    ep 03/25  train 0.7528  val 0.7852  AUC 0.8054  bACC 0.6518
+    ep 04/25  train 0.6565  val 0.7463  AUC 0.8225  bACC 0.6427
+    ep 05/25  train 0.5810  val 0.8158  AUC 0.8363  bACC 0.6467
+    ep 06/25  train 0.5274  val 0.8701  AUC 0.8359  bACC 0.6281
+    ep 07/25  train 0.4501  val 0.8680  AUC 0.8376  bACC 0.6345
+    ep 08/25  train 0.4738  val 0.8101  AUC 0.8369  bACC 0.6301
+    ep 09/25  train 0.3958  val 0.9370  AUC 0.8492  bACC 0.6356
+    ep 10/25  train 0.3661  val 0.9379  AUC 0.8332  bACC 0.6315
+    early stop @ epoch 10 (best 4)
+    selesai 0.6 menit | VRAM puncak 2234 MB
+    [fig] D:\REGAN-Projek\THESIS\Result\figures\flat_densenet121_proc_subsample_f4_s44_history.png
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\flat_densenet121_proc_subsample_innerval_f4_s44.csv  (149 baris)
+    [pred] D:\REGAN-Projek\THESIS\Result\predictions\flat_densenet121_proc_subsample_test_f4_s44.csv  (243 baris)
+    TEST bACC=0.6589  macroF1=0.6583  AUC=0.8305

@@ -1,0 +1,133 @@
+_wandb:
+    value:
+        cli_version: 0.25.0
+        e:
+            nfzz5bmop6ggfreor7nhsq3r2mi0zwsm:
+                codePath: run_04_train_flat.py
+                codePathLocal: run_04_train_flat.py
+                cpu_count: 24
+                cpu_count_logical: 32
+                cudaVersion: "13.1"
+                disk:
+                    /:
+                        total: "261968998400"
+                        used: "208186548224"
+                email: reganagam@mail.ugm.ac.id
+                executable: C:\Users\Regan Agam\miniconda3\envs\torch-gpu\python.exe
+                gpu: NVIDIA GeForce RTX 4060
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ada
+                      cudaCores: 3072
+                      memoryTotal: "8585740288"
+                      name: NVIDIA GeForce RTX 4060
+                      uuid: GPU-b5ff33e1-c213-4750-38a8-3cc1d8ffb2e8
+                host: PC-RWS
+                memory:
+                    total: "34163732480"
+                os: Windows-10-10.0.26200-SP0
+                program: D:\REGAN-Projek\THESIS\Program\Program Tesis\run_04_train_flat.py
+                python: CPython 3.9.24
+                root: D:\REGAN-Projek\THESIS\Program\Program Tesis
+                startedAt: "2026-08-03T04:16:59.440206Z"
+                writerId: nfzz5bmop6ggfreor7nhsq3r2mi0zwsm
+        m: []
+        python_version: 3.9.24
+        t:
+            "1":
+                - 1
+                - 5
+                - 41
+                - 49
+                - 53
+                - 80
+            "2":
+                - 1
+                - 5
+                - 41
+                - 49
+                - 53
+                - 80
+            "3":
+                - 2
+                - 13
+                - 15
+                - 16
+                - 62
+            "4": 3.9.24
+            "5": 0.25.0
+            "8":
+                - 3
+            "10":
+                - 20
+            "12": 0.25.0
+            "13": windows-amd64
+backbone:
+    value: densenet121
+batch_size:
+    value: 32
+breslow_cutoff_mm:
+    value: 0.8
+densenet_drop_rate:
+    value: 0.2
+deterministic:
+    value: true
+drop_polesie_ambiguous:
+    value: false
+dropout_p:
+    value: 0.3
+early_stop_patience:
+    value: 6
+epistemic_measure:
+    value: variance
+epochs:
+    value: 25
+gatekeeper_mode:
+    value: symmetric
+img_size:
+    value: 224
+inner_val_frac:
+    value: 0.15
+isic_deprioritize_exact_cut:
+    value: true
+isic_mode:
+    value: subsample
+isic_n_thick:
+    value: 100
+isic_n_thin:
+    value: 53
+kawahara_proxy_mm:
+    value: 0.76
+lr:
+    value: 0.0001
+mc_samples:
+    value: 30
+n_folds:
+    value: 5
+num_workers:
+    value: 0
+pretrained:
+    value: true
+reject_percentile:
+    value: 10
+seeds:
+    value:
+        - 42
+        - 43
+        - 44
+        - 45
+        - 46
+stage2_train_mode:
+    value: oof
+use_amp:
+    value: true
+use_preprocessing:
+    value: true
+wandb_entity:
+    value: null
+wandb_mode:
+    value: online
+wandb_project:
+    value: breslow-hierarchical-gatekeeper
+weight_decay:
+    value: 1e-05
